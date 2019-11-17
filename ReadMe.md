@@ -1,6 +1,6 @@
 ﻿# このソフトウェアについて
 
-![](https://github.com/ytyaru/CSharp.GitHubAction.DotNetCommand.20191117115546/workflows/csc/badge.svg)
+![](https://github.com/ytyaru/CSharp.GitHubAction.DotNetCommand.20191117115546/workflows/dotnet/badge.svg)
 
 　GitHubActionを試してみる3（cscでなくdotnetコマンド）
 
